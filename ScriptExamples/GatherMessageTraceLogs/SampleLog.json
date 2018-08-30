@@ -1,0 +1,44 @@
+[
+    {
+        "RecipientAddress": "SomeUser1@SomeUniDomain.edu",
+        "SenderAddress": "no-reply@someDomain.com",
+        "Received": "2018-06-05T17:59:59",
+        "Status": "FilteredAsSpam",
+        "ToIP": null,
+        "FromIP": "54.218.127.47",
+        "Subject": "Message subject",
+        "Size": 85278,
+        "MessageTraceId": "753bc801-ce8c-43bf-89b5-08d25d2f780",
+        "MessageId": "someMessageid@somemailsender.com",
+        "RecipientDomain": "SomeUniDomain.edu",
+        "SenderDomain": "mail.zillow.com"
+    },
+    {
+        "RecipientAddress": "SomeUser2@SomeUniDomain.edu",
+        "SenderAddress": "badguynumber2@gmail.com",
+        "Received": "2018-06-05T17:59:59",
+        "Status": "Quarantined",
+        "ToIP": null,
+        "FromIP": "127.0.0.1",
+        "Subject": "Urgent account deactivation",
+        "Size": 115202,
+        "MessageTraceId": "9cabad66-ce8c-44c9-b210-08d25d2f780",
+        "MessageId": "ce1733359f4c5254d878eba51.2b721ba971.20180605175908.8df14d557e.e07613c5@mail99.sea21.rsgsv.net",
+        "RecipientDomain": "SomeUniDomain.edu",
+        "SenderDomain": "gmail.com"
+    },
+    {
+        "RecipientAddress": "SomeUser3@SomeUniDomain.edu",
+        "SenderAddress": "goldensandsgc@gmail.com",
+        "Received": "2018-06-05T17:59:59",
+        "Status": "Delivered",
+        "ToIP": null,
+        "FromIP": "209.85.214.65",
+        "Subject": "Wednesday Mens Golf League",
+        "Size": 111427,
+        "MessageTraceId": "9cabad66-ce8c-4bd1-ddf0-08d5cb0e2234",
+        "MessageId": "9cabad66-E9A9-4AFA-B2B7-08d5cb0e2234@gmail.com",
+        "RecipientDomain": "SomeUniDomain.edu",
+        "SenderDomain": "gmail.com"
+    }
+]

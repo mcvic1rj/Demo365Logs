@@ -1,0 +1,1 @@
+write-host "This is some script that will gather message trace logs"
