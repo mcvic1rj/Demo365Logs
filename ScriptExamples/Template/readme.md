@@ -18,5 +18,7 @@
 
 {{Use case}}
 
+## What permissions are required to run this?
+
 ## Known issues
 {{Any known issues}}
